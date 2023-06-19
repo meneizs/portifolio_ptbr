@@ -21,26 +21,10 @@ A idéia inicial, é de fazer essa "raspagem" de dados, realizar todas as transf
 
 # Ferramentas a Serem Utilizadas
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+- Web Scrapping: Python
+- Manipulação e Transformação dos Dados: Python
+- Data Warehouse: PostgreSQL
+- Visualização de Dados: Power BI
 
 # Objetivo Final
 
