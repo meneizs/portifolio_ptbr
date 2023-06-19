@@ -11,27 +11,8 @@
 * [Descrição do Projeto](#Descrição-do-Projeto)
 * [Ferramentas a Serem Utilizadas](#ferramentas-a-Serem-Utilizadas)
 * [Objetivo Final](#objetivo-final)
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+  
+  
 
 # Descrição do Projeto
 
