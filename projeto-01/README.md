@@ -4,8 +4,6 @@
 
 **<h3 align="center"> :construction: Projeto em construção :construction: </h3>**
 
-<br/>
-
 # Índice
 
 <br/>
