@@ -48,7 +48,7 @@ O projeto será dividido em 4 partes, para um melhor aproveitamento e estudo de 
 
 <br/>
 
-Esse é um projeto que já realizei ano passado, através de um projeto proposto pelo Joviano Silveira, porém inicialmente no projeto foi utilizado SQL Server como banco de dados para DW, e foi utilizado SSIS como ferramenta de ETL.
+Esse é um projeto que já realizei ano passado, através de um projeto proposto pelo Joviano Silveira, porém inicialmente no projeto foi utilizado SQL Server como banco de dados para DW, e foi utilizado SSIS como ferramenta de ETL. A ideia é utilizar apenas o Python para as etapas de ETL, a fim de aprimorar e testar meu conhecimento na linguagem e suas respectivas bibliotecas.
 
 <br/>
 
