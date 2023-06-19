@@ -25,10 +25,12 @@ O projeto será dividido em 4 partes, para um melhor aproveitamento e estudo de 
 
 <br/>
 
--Extração de Dados
--Manipulação e Transformação dos Dados
--Migração dos Dados para o Data Warehouse
--Visualização dos Dados
+- Extração de Dados
+- Manipulação e Transformação dos Dados
+- Migração dos Dados para o Data Warehouse
+- Visualização dos Dados
+
+<br/>
 
 # Ferramentas a Serem Utilizadas
 
