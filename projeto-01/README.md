@@ -3,4 +3,5 @@
 # Índice
 
 * [Descrição do Projeto](#descrição)
-* [Ferramentas a Serem Usadas](ferramentas)
+* [Ferramentas a Serem Usadas](#ferramentas)
+* [Objetivo Final](#objetivo)
