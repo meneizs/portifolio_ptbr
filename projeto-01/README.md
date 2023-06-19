@@ -44,25 +44,4 @@ A idéia inicial, é de fazer essa "raspagem" de dados, realizar todas as transf
 
 # Objetivo Final
 
-
-    Esse é um projeto que já realizei ano passado, através de um projeto proposto pelo Joviano Silveira, porém inicialmente no projeto foi utilizado SQL Server como banco de dados para DW, e foi utilizado SSIS como ferramenta de ETL, 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+Esse é um projeto que já realizei ano passado, através de um projeto proposto pelo Joviano Silveira, porém inicialmente no projeto foi utilizado SQL Server como banco de dados para DW, e foi utilizado SSIS como ferramenta de ETL, 
