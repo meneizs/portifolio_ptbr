@@ -1,6 +1,6 @@
 <h1 align="center"> Extração, Manipulação, Carga e Visualização dos Dados </h1>
 
-**<h3 align="center"> :construction: Projeto em construção :construction: </h3>**
+**<h3 align="center"> :construction: Projeto em desenvolvimento :construction: </h3>**
 
 # Índice
 
@@ -9,6 +9,7 @@
 * [Descrição do Projeto](#Descrição-do-Projeto)
 * [Ferramentas a Serem Utilizadas](#ferramentas-a-Serem-Utilizadas)
 * [Objetivo Final](#objetivo-final)
+* [Status do Projeto](#status-do-projeto)
   
 <br/>
 
@@ -47,4 +48,8 @@ O projeto será dividido em 4 partes, para um melhor aproveitamento e estudo de 
 
 <br/>
 
-Esse é um projeto que já realizei ano passado, através de um projeto proposto pelo Joviano Silveira, porém inicialmente no projeto foi utilizado SQL Server como banco de dados para DW, e foi utilizado SSIS como ferramenta de ETL, 
+Esse é um projeto que já realizei ano passado, através de um projeto proposto pelo Joviano Silveira, porém inicialmente no projeto foi utilizado SQL Server como banco de dados para DW, e foi utilizado SSIS como ferramenta de ETL.
+
+<br/>
+
+# Status do Projeto
