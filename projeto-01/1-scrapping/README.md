@@ -17,3 +17,11 @@
 
 Os dados que serão extraídos nesse projeto, são proposições, ou seja propostas feitas pelos vereadores, que foram registradas pela Câmara de Indaial - SC. 
 O site que essas proposições estão disponíveis de forma aberta, é o https://www.camaraindaial.sc.gov.br/pg/proposicoes
+
+<br/>
+
+# Bibliotecas Utilizadas
+
+<br/>
+
+- Beatifull Soup 4 - bs4
