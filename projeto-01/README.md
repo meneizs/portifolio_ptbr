@@ -8,7 +8,7 @@
 
 # Índice
 
-* [Descrição do Projeto](#descrição)
+* [Descrição do Projeto](#Descrição)
 * [Ferramentas a Serem Usadas](#ferramentas)
 * [Objetivo Final](#objetivo)
 
@@ -33,4 +33,4 @@
 <br/>
 <br/>
 
-# Descrição do Projeto
+# Descrição
