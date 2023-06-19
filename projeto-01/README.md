@@ -2,5 +2,5 @@
 
 # Índice
 
-* [Descrição do Projeto] (#descrição)
-* [Ferramentas a Serem Usadas] (ferramentas)
+* [Descrição do Projeto](#descrição)
+* [Ferramentas a Serem Usadas](ferramentas)
