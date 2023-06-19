@@ -34,10 +34,14 @@ O projeto será dividido em 4 partes, para um melhor aproveitamento e estudo de 
 
 # Ferramentas a Serem Utilizadas
 
+<br/>
+
 - Web Scrapping: Python
 - Manipulação e Transformação dos Dados: Python
 - Data Warehouse: PostgreSQL
 - Visualização de Dados: Power BI
+
+<br/>
 
 # Objetivo Final
 
