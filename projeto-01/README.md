@@ -53,3 +53,10 @@ Esse é um projeto que já realizei ano passado, através de um projeto proposto
 <br/>
 
 # Status do Projeto
+
+<br/>
+- Extração de Dados :construction: 00%
+- Manipulação e Transformação dos Dados :construction: 00%
+- Migração dos Dados para o Data Warehouse :construction: 00%
+- Visualização dos Dados :construction: 00%
+
