@@ -24,4 +24,4 @@ O site que essas proposições estão disponíveis de forma aberta, é o https:/
 
 <br/>
 
-- Beatifull Soup 4 - bs4
+- BeatifulSoup 4 (bs4)
